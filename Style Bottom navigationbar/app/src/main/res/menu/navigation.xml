@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_item1"
+        android:icon="@drawable/ic_perm_identity_black_24dp"
+        android:title="Preference"/>
+    <item
+        android:id="@+id/action_item2"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        android:title="Earning"/>
+    <item
+        android:id="@+id/action_item3"
+        android:icon="@drawable/ic_location_on_black_24dp"
+        android:title="Rides"/>
+    <item
+        android:id="@+id/action_item4"
+        android:icon="@drawable/ic_call_black_24dp"
+        android:title="Support"/>
+
+</menu>
